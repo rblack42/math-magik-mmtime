@@ -1,0 +1,15 @@
+# Mac
+.DS_Store
+
+# Python
+.py[cod]
+__pycache__
+.direnv
+
+# Jupyter
+**/.ipynb_checkpoints
+**/_build/
+
+# Vim
+*.swp
+*~
