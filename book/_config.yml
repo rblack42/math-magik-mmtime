@@ -6,7 +6,7 @@ logo: ../assets/images/logo/lpp.gif
 email: roie.black@gmail.com
 
 jupyter_execute_notebooks: force
-exclude_patterns: [content/unpublished/*]
+exclude_patterns: [content/unpublished/*, tmp/*]
 latex:
   latex_documents:
     targetname: book.tex

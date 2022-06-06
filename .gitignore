@@ -13,3 +13,9 @@ __pycache__
 # Vim
 *.swp
 *~
+
+# Fortran
+*.o
+*.mod
+*.dylib
+**/tmp

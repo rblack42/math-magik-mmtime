@@ -77,6 +77,8 @@ fastjsonschema==2.15.3
     # via nbformat
 flask==2.1.2
     # via -r requirements.in
+flaskwebgui==0.3.5
+    # via -r requirements.in
 fonttools==4.33.3
     # via matplotlib
 gitdb==4.0.9
@@ -423,6 +425,8 @@ werkzeug==2.1.2
     # via flask
 wheel==0.37.1
     # via sphinx-togglebutton
+whichcraft==0.6.1
+    # via flaskwebgui
 widgetsnbextension==3.6.0
     # via ipywidgets
 zipp==3.8.0
